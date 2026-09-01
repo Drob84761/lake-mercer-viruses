@@ -1,0 +1,78 @@
+Virus	Lifestyle	Host.genome	Host.taxonomy	Phylum	Class	Order	Family	Genus	Species	Main.method	Confidence.score	Additional.methods
+phage_1033	temperate	RS_GCF_001591705.1	d__Bacteria	p__Bacillota	Bacilli	o__Lactobacillales	Streptococcaceae	Lactococcus	s__Lactococcus cremoris	blast	96	iPHoP-RF;81.10
+phage_1042	temperate	GB_GCA_038226155.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Burkholderiaceae	Polaromonas	s__Polaromonas sp038226155	iPHoP-RF	96.1	None
+phage_1044	Unknown	3300045588_7	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	Flavobacterium	s__	iPHoP-RF	94.7	None
+phage_1056	virulent	GB_GCA_947449315.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__2-12-FULL-35-15	2-12-FULL-35-15	2-12-FULL-35-15	s__2-12-FULL-35-15 sp947449315	iPHoP-RF	90.5	None
+phage_1160	Unknown	RS_GCF_024585165.1	d__Bacteria	p__Pseudomonadota	Alphaproteobacteria	o__Rhizobiales	Xanthobacteraceae	Bradyrhizobium	s__Bradyrhizobium japonicum_B	blast	95.1	None
+phage_1228	virulent	GB_GCA_003151815.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__2-12-FULL-35-15	2-12-FULL-35-15	2-12-FULL-35-15	s__2-12-FULL-35-15 sp003151815	iPHoP-RF	96.4	None
+phage_1260	virulent	RS_GCF_902170785.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Enterobacterales	Enterobacteriaceae	Yersinia	s__Yersinia proxima	iPHoP-RF	90.5	None
+phage_1972	virulent	GB_GCA_034367065.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	UM-FILTER-40-17	s__UM-FILTER-40-17 sp034367065	blast	91.5	iPHoP-RF;59.80
+phage_2475	virulent	GB_GCA_003518885.1	d__Bacteria	p__Bacillota	Clostridia	o__Oscillospirales	Ethanoligenentaceae	Ethanoligenens	s__Ethanoligenens sp003518885	iPHoP-RF	91.8	None
+phage_2879	Unknown	GB_GCA_947377425.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	Flavobacterium	s__Flavobacterium sp947377425	iPHoP-RF	93.4	None
+phage_2884	temperate	RS_GCF_900107165.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Nitrosomonadaceae	Nitrosomonas	s__Nitrosomonas halophila	iPHoP-RF	90.8	None
+phage_2892	Unknown	GB_GCA_905371595.1	d__Bacteria	p__Patescibacteriota	Saccharimonadia	o__Saccharimonadales	Saccharimonadaceae	Saccharimonas	s__Saccharimonas sp905371595	iPHoP-RF	91.8	None
+phage_2901	virulent	RS_GCF_026191375.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Pseudomonadales	Marinomonadaceae	Marinomonas	s__Marinomonas pontica	iPHoP-RF	93.1	None
+phage_2918	temperate	RS_GCF_918378365.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Gallionellaceae	Nitrotoga	s__Nitrotoga arctica	iPHoP-RF	95.7	None
+phage_2926	temperate	3300067032_2662	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	s__	iPHoP-RF	94.7	None
+phage_2927	Unknown	GB_GCA_016281255.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Bacteroidales	WCHB1-69	F23-D06	s__F23-D06 sp016281255	iPHoP-RF	95.1	None
+phage_2941	virulent	GB_GCA_945870155.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Bacteroidales	Paludibacteraceae	Paludibacter	s__Paludibacter jiangxiensis_A	iPHoP-RF	91.1	None
+phage_3046	Unknown	MGYG000459375	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	Cellulophaga	s__	iPHoP-RF	94.4	None
+phage_3065	virulent	3300051785_168	d__Bacteria	p__Bacteroidota	Bacteroidia	o__2-12-FULL-35-15	2-12-FULL-35-15	2-12-FULL-35-15	s__	iPHoP-RF	97.1	None
+phage_3085	Unknown	MGYG000459037	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Bacteroidales	F082	GCA-002708315	s__	iPHoP-RF	91.1	None
+phage_3088	temperate	RS_GCF_033342255.1	d__Bacteria	p__Bacillota	Clostridia	o__Lachnospirales	Lachnospiraceae	Lacrimispora	s__Lacrimispora boliviensis	CRISPR	93.9	None
+phage_3089	virulent	3300027976_78	d__Bacteria	p__Actinomycetota	Actinomycetes	o__Nanopelagicales	Nanopelagicaceae	Planktophila	s__	blast	91.7	iPHoP-RF;55.20
+phage_3101	virulent	3300027983_18	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Burkholderiaceae	Polaromonas	s__	iPHoP-RF	90.5	None
+phage_3106	virulent	GB_GCA_031368105.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Chitinophagales	Chitinophagaceae	Ferruginibacter	s__Ferruginibacter sp031368105	iPHoP-RF	95.7	None
+phage_3125	virulent	RS_GCF_028288465.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Chitinophagales	Chitinophagaceae	Ferruginibacter	s__Ferruginibacter sp028288465	iPHoP-RF	95.1	None
+phage_3128	temperate	GB_GCA_001769385.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__2-12-FULL-35-15	2-12-FULL-35-15	2-12-FULL-35-15	s__2-12-FULL-35-15 sp001769385	iPHoP-RF	95.4	None
+phage_3134	temperate	GB_GCA_030700315.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Gallionellaceae	Gallionella	s__Gallionella sp030700315	iPHoP-RF	92.1	None
+phage_3136	Unknown	RS_GCF_024585165.1	d__Bacteria	p__Pseudomonadota	Alphaproteobacteria	o__Rhizobiales	Xanthobacteraceae	Bradyrhizobium	s__Bradyrhizobium japonicum_B	blast	91.2	iPHoP-RF;67.70
+phage_3138	virulent	GB_GCA_030615205.1	d__Archaea	p__Aenigmatarchaeota	Aenigmatarchaeia	o__CG10238-14	SCSR01	JAUWZS01	s__JAUWZS01 sp030615205	iPHoP-RF	92.8	None
+phage_3143	virulent	3300007519_98	d__Bacteria	p__Pseudomonadota	Alphaproteobacteria	o__Rickettsiales	JABSSG01	JAHZKS01	s__	blast	93.8	iPHoP-RF;73.00
+phage_3150	virulent	GB_GCA_031397865.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Chitinophagales	Chitinophagaceae	JJ008	s__JJ008 sp031397865	iPHoP-RF	90.5	None
+phage_3264	Unknown	GB_GCA_001438605.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Pseudomonadales	Porticoccaceae	HTCC2207	s__HTCC2207 sp001438605	iPHoP-RF	93.4	None
+phage_3276	temperate	RS_GCF_037671525.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Methylococcales	Methylomonadaceae	Methylobacter_A	s__Methylobacter_A svalbardensis	iPHoP-RF	92.1	None
+phage_3295	virulent	GB_GCA_031292575.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Bacteroidales	Paludibacteraceae	Paludibacter	s__Paludibacter sp031292575	iPHoP-RF	95.1	None
+phage_3305	virulent	GB_GCA_031420875.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Gallionellaceae	Nitrotoga	s__Nitrotoga sp031420875	iPHoP-RF	95.1	None
+phage_3333	virulent	RS_GCF_003385895.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	Flavobacterium	s__Flavobacterium cutihirudinis	iPHoP-RF	90.1	None
+phage_3334	virulent	GB_GCA_040387415.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__2-12-FULL-35-15	2-12-FULL-35-15	2-12-FULL-35-15	s__2-12-FULL-35-15 sp040387415	iPHoP-RF	90.8	None
+phage_3621	Unknown	GB_GCA_001916775.1	d__Bacteria	p__Bacillota	Bacilli	o__RF39	UBA660	CAG-302	s__CAG-302 sp001916775	CRISPR	90.7	None
+phage_3676	virulent	RS_GCF_018861315.1	d__Bacteria	p__Bacillota	Clostridia	o__Clostridiales	Clostridiaceae	Clostridium_AD	s__Clostridium_AD bowmanii	iPHoP-RF	92.8	None
+phage_3913	temperate	RS_GCF_963522035.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Burkholderiaceae	Noviherbaspirillum_A	s__Noviherbaspirillum_A sp963522035	blast	93.9	None
+phage_4062	Unknown	3300027976_16	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Burkholderiaceae	CAISIP01	s__	blast	96.1	iPHoP-RF;52.80
+phage_4200	Unknown	RS_GCF_015352955.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Burkholderiaceae	Noviherbaspirillum_A	s__Noviherbaspirillum_A soli	blast	93.8	iPHoP-RF;64.50
+phage_4231	virulent	3300024962_7	d__Bacteria	p__Bacteroidota	Bacteroidia	o__B-17B0	B-17BO	UBA4416	s__	iPHoP-RF	93.4	None
+phage_4431	Unknown	3300027976_19	d__Bacteria	p__Planctomycetota	Planctomycetia	o__Gemmatales	Gemmataceae	UBA969	s__	blast	94.8	iPHoP-RF;66.50
+phage_4504	temperate	RS_GCF_001071995.1	d__Bacteria	p__Bacillota	Bacilli	o__Lactobacillales	Aerococcaceae	Granulicatella	s__Granulicatella sp001071995	iPHoP-RF	95.1	None
+phage_4534	virulent	GB_GCA_034675805.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	Aequorivita	s__Aequorivita sp034675805	iPHoP-RF	91.1	None
+phage_4546	Unknown	3300048577_3	d__Bacteria	p__Bacillota	Clostridia	o__Lachnospirales	Lachnospiraceae	Lachnoclostridium	s__	iPHoP-RF	90.8	None
+phage_4748	temperate	3300047374_36	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Pseudomonadales	Azotimanducaceae	UBA4421	s__	iPHoP-RF	94.4	None
+phage_4750	virulent	GB_GCA_031546965.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Bacteroidales	Dysgonomonadaceae	Dysgonomonas	s__Dysgonomonas sp031546965	iPHoP-RF	95.7	None
+phage_4756	temperate	GB_GCA_013141505.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Methylococcales	Methylomonadaceae	Methyloglobulus	s__Methyloglobulus sp013141505	iPHoP-RF	96.1	None
+phage_4770	virulent	GB_GCA_020428685.1	d__Bacteria	p__Patescibacteriota	Minisyncoccia	o__UBA9973	UBA918	OLB19	s__OLB19 sp020428685	iPHoP-RF	91.4	None
+phage_4784	temperate	GB_GCA_943354745.1	d__Bacteria	p__Patescibacteriota	Minisyncoccia	o__UBA9973	UBA10002	UBA10002	s__UBA10002 sp943354745	iPHoP-RF	90.1	None
+phage_4867	Unknown	RS_GCF_024585165.1	d__Bacteria	p__Pseudomonadota	Alphaproteobacteria	o__Rhizobiales	Xanthobacteraceae	Bradyrhizobium	s__Bradyrhizobium japonicum_B	blast	93.9	iPHoP-RF;64.00
+phage_5138	virulent	GB_GCA_003326215.1	d__Bacteria	p__Cyanobacteriota	Cyanobacteriia	o__Cyanobacteriales	Nostocaceae	Dendronalium	s__Dendronalium minutum	iPHoP-RF	93.1	None
+phage_5252	virulent	MGYG000443654	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Chitinophagales	Saprospiraceae	JAFMDF01	s__	iPHoP-RF	90.8	None
+phage_5433	Unknown	RS_GCF_902459525.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Gallionellaceae	Sideroxyarcus	s__Sideroxyarcus sp902459525	iPHoP-RF	90.5	None
+phage_5626	virulent	RS_GCF_000166715.1	d__Bacteria	p__Bacillota	Bacilli	o__Lactobacillales	Lactobacillaceae	Leuconostoc	s__Leuconostoc gelidum	iPHoP-RF	95.7	None
+phage_5755	Unknown	GB_GCA_902796575.1	d__Archaea	p__Methanobacteriota	Methanobacteria	o__Methanobacteriales	Methanobacteriaceae	Methanocatella	s__Methanocatella sp902796575	iPHoP-RF	94.4	None
+phage_5783	temperate	RS_GCF_014698795.1	d__Bacteria	p__Cyanobacteriota	Cyanobacteriia	o__Cyanobacteriales	Nostocaceae	Nostoc	s__Nostoc sp014698795	iPHoP-RF	94.4	None
+phage_5893	Unknown	GB_GCA_937873135.1	d__Bacteria	p__Cyanobacteriota	Cyanobacteriia	o__Cyanobacteriales	Nostocaceae	Rhizonema	s__Rhizonema sp937873135	iPHoP-RF	94.4	None
+phage_5895	temperate	GB_GCA_900539195.1	d__Bacteria	p__Bacillota	Clostridia	o__Oscillospirales	Ruminococcaceae	Ruminiclostridium_E	s__Ruminiclostridium_E sp900539195	CRISPR	99	None
+phage_5923	Unknown	RS_GCF_004349315.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	Flavobacterium	s__Flavobacterium ranwuense	iPHoP-RF	94.1	None
+phage_5925	virulent	3300008159_14	d__Bacteria	p__Bacillota	Bacilli	o__Lactobacillales	Streptococcaceae	Streptococcus	s__	CRISPR	99.7	iPHoP-RF;76.80
+phage_6232	Unknown	GB_GCA_963678025.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Bacteroidales	UBA932	Bact-08	s__Bact-08 sp963678025	blast	92.2	iPHoP-RF;68.60
+phage_6441	virulent	GB_GCA_037129595.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Methylococcales	Methylomonadaceae	Methylobacter_C	s__Methylobacter_C sp037129595	iPHoP-RF	94.7	None
+phage_6468	Unknown	RS_GCF_900095845.1	d__Bacteria	p__Bacillota	Bacilli	o__Lactobacillales	Streptococcaceae	Streptococcus	s__Streptococcus timonensis	blast	96.8	iPHoP-RF;67.70
+phage_6738	temperate	GB_GCA_000688775.2	d__Bacteria	p__Bacillota	Bacilli	o__Lactobacillales	Streptococcaceae	Streptococcus	s__Streptococcus sp000688775	blast	93.9	iPHoP-RF;60.90
+phage_6790	Unknown	GB_GCA_003151815.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__2-12-FULL-35-15	2-12-FULL-35-15	2-12-FULL-35-15	s__2-12-FULL-35-15 sp003151815	iPHoP-RF	93.7	None
+phage_820	temperate	RS_GCF_030409845.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	Flavobacterium	s__Flavobacterium branchiarum	iPHoP-RF	91.1	None
+phage_823	virulent	RS_GCF_028714775.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Thiotrichales	Thiotrichaceae	Thiothrix	s__Thiothrix sp028714775	iPHoP-RF	94.4	None
+phage_871	virulent	3300049218_59	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Pseudomonadales	Pseudomonadaceae	Pseudomonas_E	s__	iPHoP-RF	92.1	None
+phage_885	temperate	RS_GCF_918378365.1	d__Bacteria	p__Pseudomonadota	Gammaproteobacteria	o__Burkholderiales	Gallionellaceae	Nitrotoga	s__Nitrotoga arctica	iPHoP-RF	90.1	None
+phage_896	Unknown	GB_GCA_938049695.1	d__Archaea	p__Thermoproteota	Nitrososphaeria	o__Nitrososphaerales	Nitrosopumilaceae	Nitrosarchaeum	s__Nitrosarchaeum sp938049695	blast	91.3	None
+phage_910	Unknown	GB_GCA_030645815.1	d__Bacteria	p__Patescibacteriota	Saccharimonadia	o__Saccharimonadales	JACPYF01	JACPYF01	s__JACPYF01 sp030645815	iPHoP-RF	95.7	None
+phage_915	virulent	GB_GCA_040261965.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	UBA7446	s__UBA7446 sp040261965	iPHoP-RF	92.1	None
+phage_920	Unknown	RS_GCF_014218335.1	d__Bacteria	p__Bacillota	Clostridia	o__Lachnospirales	Lachnospiraceae	Anaerocolumna	s__Anaerocolumna cellulosilytica	iPHoP-RF	94.4	None
+phage_944	Unknown	GB_GCA_031277535.1	d__Bacteria	p__Bacteroidota	Bacteroidia	o__Flavobacteriales	Flavobacteriaceae	Flavobacterium	s__Flavobacterium sp031277535	iPHoP-RF	94.4	None

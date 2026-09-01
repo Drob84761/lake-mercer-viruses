@@ -1,0 +1,742 @@
+Contig	Order	Family	Genus	VC	VC Status	Size	VC Subcluster	VC Subcluster Size	Quality	Adj P-value	Topology Confidence Score	Genera in VC	Families in VC	Orders in VC	Genus Confidence Score
+phage_2901	Caudovirales	Myoviridae	Unassigned	173_0	Clustered	3	VC_173_0	3	0.7309	0.70205845	0.5131	1	2	2	1
+phage_767	Unassigned	Unassigned	Unassigned	495_0	Clustered	5	VC_495_0	5	1	1	1	1	1	1	1
+phage_903	Unassigned	Unassigned	Unassigned	495_0	Clustered	5	VC_495_0	5	1	1	1	1	1	1	1
+phage_3118	Unassigned	Unassigned	Unassigned	496_0	Clustered	3	VC_496_0	3	0.628	0.99188498	0.6229	1	1	1	1
+phage_5764	Unassigned	Unassigned	Unassigned	496_0	Clustered	3	VC_496_0	3	0.628	0.99188498	0.6229	1	1	1	1
+phage_888	Unassigned	Unassigned	Unassigned	496_0	Clustered	3	VC_496_0	3	0.628	0.99188498	0.6229	1	1	1	1
+phage_2167	Unassigned	Unassigned	Unassigned	497_0	Clustered	2	VC_497_0	2	1	1	1	1	1	1	1
+phage_4550	Unassigned	Unassigned	Unassigned	497_0	Clustered	2	VC_497_0	2	1	1	1	1	1	1	1
+phage_2196	Unassigned	Unassigned	Unassigned	498_0	Clustered	3	VC_498_0	3	1	0	0	1	1	1	1
+phage_3136	Unassigned	Unassigned	Unassigned	498_0	Clustered	3	VC_498_0	3	1	0	0	1	1	1	1
+phage_6232	Unassigned	Unassigned	Unassigned	498_0	Clustered	3	VC_498_0	3	1	0	0	1	1	1	1
+phage_2229	Unassigned	Unassigned	Unassigned	499_0	Clustered	2	VC_499_0	2	1	1	1	1	1	1	1
+phage_4517	Unassigned	Unassigned	Unassigned	499_0	Clustered	2	VC_499_0	2	1	1	1	1	1	1	1
+phage_5868	Unassigned	Unassigned	Unassigned	500_0	Clustered/Singleton	1	VC_500_0	1	0	1	0	1	1	1	1
+phage_2279	Unassigned	Unassigned	Unassigned	501_0	Clustered	2	VC_501_0	2	0.5735	0.72985431	0.4186	1	1	1	1
+phage_656	Unassigned	Unassigned	Unassigned	501_0	Clustered	2	VC_501_0	2	0.5735	0.72985431	0.4186	1	1	1	1
+phage_2346	Unassigned	Unassigned	Unassigned	502_0	Clustered	2	VC_502_0	2	1	1	1	1	1	1	1
+phage_975	Unassigned	Unassigned	Unassigned	502_0	Clustered	2	VC_502_0	2	1	1	1	1	1	1	1
+phage_2475	Unassigned	Unassigned	Unassigned	503_0	Clustered	2	VC_503_0	2	1	1	1	1	1	1	1
+phage_3356	Unassigned	Unassigned	Unassigned	503_0	Clustered	2	VC_503_0	2	1	1	1	1	1	1	1
+phage_2667	Unassigned	Unassigned	Unassigned	504_0	Clustered	2	VC_504_0	2	1	1	1	1	1	1	1
+phage_3086	Unassigned	Unassigned	Unassigned	504_0	Clustered	2	VC_504_0	2	1	1	1	1	1	1	1
+phage_2731	Unassigned	Unassigned	Unassigned	505_0	Clustered	2	VC_505_0	2	1	1	1	1	1	1	1
+phage_3275	Unassigned	Unassigned	Unassigned	505_0	Clustered	2	VC_505_0	2	1	1	1	1	1	1	1
+phage_286	Unassigned	Unassigned	Unassigned	506_0	Clustered	2	VC_506_0	2	1	1	1	1	1	1	1
+phage_80	Unassigned	Unassigned	Unassigned	506_0	Clustered	2	VC_506_0	2	1	1	1	1	1	1	1
+phage_2875	Unassigned	Unassigned	Unassigned	507_0	Clustered	2	VC_507_0	2	0.8181	0.5	0.4091	1	1	1	1
+phage_4389	Unassigned	Unassigned	Unassigned	507_0	Clustered	2	VC_507_0	2	0.8181	0.5	0.4091	1	1	1	1
+phage_4748	Unassigned	Unassigned	Unassigned	508_0	Clustered	2	VC_508_0	2	0.3253	0.87921671	0.286	1	1	1	1
+phage_909	Unassigned	Unassigned	Unassigned	508_0	Clustered	2	VC_508_0	2	0.3253	0.87921671	0.286	1	1	1	1
+phage_2882	Unassigned	Unassigned	Unassigned	509_0	Clustered	2	VC_509_0	2	1	1	1	1	2	2	1
+phage_2884	Unassigned	Unassigned	Unassigned	511_0	Clustered	3	VC_511_0	3	0.4089	0.613585	0.2509	1	1	1	1
+phage_4749	Unassigned	Unassigned	Unassigned	511_0	Clustered	3	VC_511_0	3	0.4089	0.613585	0.2509	1	1	1	1
+phage_6357	Unassigned	Unassigned	Unassigned	511_0	Clustered	3	VC_511_0	3	0.4089	0.613585	0.2509	1	1	1	1
+phage_3070	Unassigned	Unassigned	Unassigned	512_0	Clustered	3	VC_512_0	3	0.4003	0.97490691	0.3903	1	1	1	1
+phage_4518	Unassigned	Unassigned	Unassigned	512_0	Clustered	3	VC_512_0	3	0.4003	0.97490691	0.3903	1	1	1	1
+phage_7194	Unassigned	Unassigned	Unassigned	512_0	Clustered	3	VC_512_0	3	0.4003	0.97490691	0.3903	1	1	1	1
+phage_2898	Unassigned	Unassigned	Unassigned	513_0	Clustered	2	VC_513_0	2	1	1	1	1	1	1	1
+phage_871	Unassigned	Unassigned	Unassigned	513_0	Clustered	2	VC_513_0	2	1	1	1	1	1	1	1
+phage_2899	Unassigned	Unassigned	Unassigned	514_0	Clustered	2	VC_514_0	2	1	1	1	1	1	1	1
+phage_5309	Unassigned	Unassigned	Unassigned	514_0	Clustered	2	VC_514_0	2	1	1	1	1	1	1	1
+phage_3300	Unassigned	Unassigned	Unassigned	515_0	Clustered	2	VC_515_0	2	0.5555	0.72985431	0.4055	1	1	1	1
+phage_4498	Unassigned	Unassigned	Unassigned	515_0	Clustered	2	VC_515_0	2	0.5555	0.72985431	0.4055	1	1	1	1
+phage_2919	Unassigned	Unassigned	Unassigned	516_0	Clustered	2	VC_516_0	2	1	1	1	1	1	1	1
+phage_4363	Unassigned	Unassigned	Unassigned	516_0	Clustered	2	VC_516_0	2	1	1	1	1	1	1	1
+phage_3125	Unassigned	Unassigned	Unassigned	517_0	Clustered	3	VC_517_0	3	0.6603	0.97408504	0.6432	1	1	1	1
+phage_3142	Unassigned	Unassigned	Unassigned	517_0	Clustered	3	VC_517_0	3	0.6603	0.97408504	0.6432	1	1	1	1
+phage_890	Unassigned	Unassigned	Unassigned	517_0	Clustered	3	VC_517_0	3	0.6603	0.97408504	0.6432	1	1	1	1
+phage_294	Unassigned	Unassigned	Unassigned	518_0	Clustered	2	VC_518_0	2	1	1	1	1	1	1	1
+phage_5869	Unassigned	Unassigned	Unassigned	518_0	Clustered	2	VC_518_0	2	1	1	1	1	1	1	1
+phage_2947	Unassigned	Unassigned	Unassigned	519_0	Clustered	2	VC_519_0	2	1	1	1	1	1	1	1
+phage_4777	Unassigned	Unassigned	Unassigned	519_0	Clustered	2	VC_519_0	2	1	1	1	1	1	1	1
+phage_2958	Unassigned	Unassigned	Unassigned	520_0	Clustered	2	VC_520_0	2	0.5341	0.72985431	0.3898	1	1	1	1
+phage_3335	Unassigned	Unassigned	Unassigned	520_0	Clustered	2	VC_520_0	2	0.5341	0.72985431	0.3898	1	1	1	1
+phage_2959	Unassigned	Unassigned	Unassigned	521_0	Clustered	2	VC_521_0	2	0.2979	0.5	0.149	1	1	1	1
+phage_3316	Unassigned	Unassigned	Unassigned	521_0	Clustered	2	VC_521_0	2	0.2979	0.5	0.149	1	1	1	1
+phage_2978	Unassigned	Unassigned	Unassigned	522_0	Clustered	3	VC_522_0	3	0.5474	0.81162044	0.4443	1	1	1	1
+phage_5929	Unassigned	Unassigned	Unassigned	522_0	Clustered	3	VC_522_0	3	0.5474	0.81162044	0.4443	1	1	1	1
+phage_854	Unassigned	Unassigned	Unassigned	522_0	Clustered	3	VC_522_0	3	0.5474	0.81162044	0.4443	1	1	1	1
+phage_3042	Unassigned	Unassigned	Unassigned	523_0	Clustered	2	VC_523_0	2	1	1	1	1	1	1	1
+phage_5747	Unassigned	Unassigned	Unassigned	523_0	Clustered	2	VC_523_0	2	1	1	1	1	1	1	1
+phage_3362	Unassigned	Unassigned	Unassigned	524_0	Clustered	3	VC_524_0	3	0.167	0.5	0.0835	1	1	1	1
+phage_4865	Unassigned	Unassigned	Unassigned	524_0	Clustered	3	VC_524_0	3	0.167	0.5	0.0835	1	1	1	1
+phage_5310	Unassigned	Unassigned	Unassigned	524_0	Clustered	3	VC_524_0	3	0.167	0.5	0.0835	1	1	1	1
+phage_3065	Unassigned	Unassigned	Unassigned	525_0	Clustered	3	VC_525_0	3	0.8154	0.87736094	0.7154	1	1	1	1
+phage_3270	Unassigned	Unassigned	Unassigned	525_0	Clustered	3	VC_525_0	3	0.8154	0.87736094	0.7154	1	1	1	1
+phage_3334	Unassigned	Unassigned	Unassigned	525_0	Clustered	3	VC_525_0	3	0.8154	0.87736094	0.7154	1	1	1	1
+phage_3068	Unassigned	Unassigned	Unassigned	526_0	Clustered	2	VC_526_0	2	1	1	1	1	1	1	1
+phage_7295	Unassigned	Unassigned	Unassigned	526_0	Clustered	2	VC_526_0	2	1	1	1	1	1	1	1
+phage_5304	Unassigned	Unassigned	Unassigned	527_0	Clustered	2	VC_527_0	2	0.5474	0.90610936	0.496	1	1	1	1
+phage_6016	Unassigned	Unassigned	Unassigned	527_0	Clustered	2	VC_527_0	2	0.5474	0.90610936	0.496	1	1	1	1
+phage_3072	Unassigned	Unassigned	Unassigned	528_0	Clustered	2	VC_528_0	2	1	1	1	1	1	1	1
+phage_3544	Unassigned	Unassigned	Unassigned	528_0	Clustered	2	VC_528_0	2	1	1	1	1	1	1	1
+phage_3083	Unassigned	Unassigned	Unassigned	529_0	Clustered	3	VC_529_0	3	1	1	1	1	1	1	1
+phage_4554	Unassigned	Unassigned	Unassigned	529_0	Clustered	3	VC_529_0	3	1	1	1	1	1	1	1
+phage_5317	Unassigned	Unassigned	Unassigned	529_0	Clustered	3	VC_529_0	3	1	1	1	1	1	1	1
+phage_3084	Unassigned	Unassigned	Unassigned	530_0	Clustered	3	VC_530_0	3	0.982	0.81445332	0.7998	1	1	1	1
+phage_3283	Unassigned	Unassigned	Unassigned	530_0	Clustered	3	VC_530_0	3	0.982	0.81445332	0.7998	1	1	1	1
+phage_6333	Unassigned	Unassigned	Unassigned	530_0	Clustered	3	VC_530_0	3	0.982	0.81445332	0.7998	1	1	1	1
+phage_3087	Unassigned	Unassigned	Unassigned	531_0	Clustered	2	VC_531_0	2	1	1	1	1	1	1	1
+phage_866	Unassigned	Unassigned	Unassigned	531_0	Clustered	2	VC_531_0	2	1	1	1	1	1	1	1
+phage_3091	Unassigned	Unassigned	Unassigned	532_0	Clustered	2	VC_532_0	2	1	1	1	1	1	1	1
+phage_5788	Unassigned	Unassigned	Unassigned	532_0	Clustered	2	VC_532_0	2	1	1	1	1	1	1	1
+phage_3092	Unassigned	Unassigned	Unassigned	533_0	Clustered	4	VC_533_0	4	0.7599	0.74069749	0.5629	1	1	1	1
+phage_3130	Unassigned	Unassigned	Unassigned	533_0	Clustered	4	VC_533_0	4	0.7599	0.74069749	0.5629	1	1	1	1
+phage_4553	Unassigned	Unassigned	Unassigned	533_0	Clustered	4	VC_533_0	4	0.7599	0.74069749	0.5629	1	1	1	1
+phage_4788	Unassigned	Unassigned	Unassigned	533_0	Clustered	4	VC_533_0	4	0.7599	0.74069749	0.5629	1	1	1	1
+phage_3129	Unassigned	Unassigned	Unassigned	534_0	Clustered	2	VC_534_0	2	1	1	1	1	1	1	1
+phage_4790	Unassigned	Unassigned	Unassigned	534_0	Clustered	2	VC_534_0	2	1	1	1	1	1	1	1
+phage_3154	Unassigned	Unassigned	Unassigned	535_0	Clustered	2	VC_535_0	2	1	1	1	1	1	1	1
+phage_4652	Unassigned	Unassigned	Unassigned	535_0	Clustered	2	VC_535_0	2	1	1	1	1	1	1	1
+phage_3157	Unassigned	Unassigned	Unassigned	536_0	Clustered	2	VC_536_0	2	0.699	0.72985431	0.5102	1	1	1	1
+phage_5914	Unassigned	Unassigned	Unassigned	536_0	Clustered	2	VC_536_0	2	0.699	0.72985431	0.5102	1	1	1	1
+phage_3208	Unassigned	Unassigned	Unassigned	537_0	Clustered	3	VC_537_0	3	0.9537	0.81445332	0.7767	1	1	1	1
+phage_4055	Unassigned	Unassigned	Unassigned	537_0	Clustered	3	VC_537_0	3	0.9537	0.81445332	0.7767	1	1	1	1
+phage_6441	Unassigned	Unassigned	Unassigned	537_0	Clustered	3	VC_537_0	3	0.9537	0.81445332	0.7767	1	1	1	1
+phage_3233	Unassigned	Unassigned	Unassigned	538_0	Clustered	2	VC_538_0	2	0.7673	0.5	0.3836	1	1	1	1
+phage_6356	Unassigned	Unassigned	Unassigned	538_0	Clustered	2	VC_538_0	2	0.7673	0.5	0.3836	1	1	1	1
+phage_3268	Unassigned	Unassigned	Unassigned	539_0	Clustered	2	VC_539_0	2	1	1	1	1	1	1	1
+phage_3309	Unassigned	Unassigned	Unassigned	539_0	Clustered	2	VC_539_0	2	1	1	1	1	1	1	1
+phage_3311	Unassigned	Unassigned	Unassigned	540_0	Clustered	3	VC_540_0	3	0.6514	0.89203753	0.5811	1	1	1	1
+phage_4484	Unassigned	Unassigned	Unassigned	540_0	Clustered	3	VC_540_0	3	0.6514	0.89203753	0.5811	1	1	1	1
+phage_4779	Unassigned	Unassigned	Unassigned	540_0	Clustered	3	VC_540_0	3	0.6514	0.89203753	0.5811	1	1	1	1
+phage_3314	Unassigned	Unassigned	Unassigned	541_0	Clustered	2	VC_541_0	2	1	1	1	1	1	1	1
+phage_5994	Unassigned	Unassigned	Unassigned	541_0	Clustered	2	VC_541_0	2	1	1	1	1	1	1	1
+phage_3318	Unassigned	Unassigned	Unassigned	542_0	Clustered	2	VC_542_0	2	1	1	1	1	1	1	1
+phage_4855	Unassigned	Unassigned	Unassigned	542_0	Clustered	2	VC_542_0	2	1	1	1	1	1	1	1
+phage_3336	Unassigned	Unassigned	Unassigned	543_0	Clustered	2	VC_543_0	2	0.3034	0.81445332	0.2471	1	1	1	1
+phage_4767	Unassigned	Unassigned	Unassigned	543_0	Clustered	2	VC_543_0	2	0.3034	0.81445332	0.2471	1	1	1	1
+phage_3339	Unassigned	Unassigned	Unassigned	544_0	Clustered	2	VC_544_0	2	1	1	1	1	1	1	1
+phage_496	Unassigned	Unassigned	Unassigned	544_0	Clustered	2	VC_544_0	2	1	1	1	1	1	1	1
+phage_3347	Unassigned	Unassigned	Unassigned	545_0	Clustered	2	VC_545_0	2	1	1	1	1	1	1	1
+phage_5251	Unassigned	Unassigned	Unassigned	545_0	Clustered	2	VC_545_0	2	1	1	1	1	1	1	1
+phage_3583	Unassigned	Unassigned	Unassigned	546_0	Clustered	2	VC_546_0	2	1	1	1	1	1	1	1
+phage_5318	Unassigned	Unassigned	Unassigned	546_0	Clustered	2	VC_546_0	2	1	1	1	1	1	1	1
+phage_4089	Unassigned	Unassigned	Unassigned	547_0	Clustered	2	VC_547_0	2	1	1	1	1	1	1	1
+phage_902	Unassigned	Unassigned	Unassigned	547_0	Clustered	2	VC_547_0	2	1	1	1	1	1	1	1
+phage_4090	Unassigned	Unassigned	Unassigned	548_0	Clustered	2	VC_548_0	2	1	1	1	1	1	1	1
+phage_5006	Unassigned	Unassigned	Unassigned	548_0	Clustered	2	VC_548_0	2	1	1	1	1	1	1	1
+phage_4098	Unassigned	Unassigned	Unassigned	549_0	Clustered	2	VC_549_0	2	1	1	1	1	1	1	1
+phage_4746	Unassigned	Unassigned	Unassigned	549_0	Clustered	2	VC_549_0	2	1	1	1	1	1	1	1
+phage_4491	Unassigned	Unassigned	Unassigned	550_0	Clustered	2	VC_550_0	2	1	1	1	1	1	1	1
+phage_6338	Unassigned	Unassigned	Unassigned	550_0	Clustered	2	VC_550_0	2	1	1	1	1	1	1	1
+phage_4496	Unassigned	Unassigned	Unassigned	551_0	Clustered	2	VC_551_0	2	1	1	1	1	1	1	1
+phage_4524	Unassigned	Unassigned	Unassigned	551_0	Clustered	2	VC_551_0	2	1	1	1	1	1	1	1
+phage_51	Unassigned	Unassigned	Unassigned	552_0	Clustered	2	VC_552_0	2	1	1	1	1	1	1	1
+phage_829	Unassigned	Unassigned	Unassigned	552_0	Clustered	2	VC_552_0	2	1	1	1	1	1	1	1
+phage_5298	Unassigned	Unassigned	Unassigned	553_0	Clustered	2	VC_553_0	2	1	1	1	1	1	1	1
+phage_885	Unassigned	Unassigned	Unassigned	553_0	Clustered	2	VC_553_0	2	1	1	1	1	1	1	1
+phage_5315	Unassigned	Unassigned	Unassigned	554_0	Clustered	2	VC_554_0	2	1	1	1	1	1	1	1
+phage_863	Unassigned	Unassigned	Unassigned	554_0	Clustered	2	VC_554_0	2	1	1	1	1	1	1	1
+phage_5735	Unassigned	Unassigned	Unassigned	555_0	Clustered	2	VC_555_0	2	1	1	1	1	1	1	1
+phage_5885	Unassigned	Unassigned	Unassigned	555_0	Clustered	2	VC_555_0	2	1	1	1	1	1	1	1
+phage_5858	Unassigned	Unassigned	Unassigned	556_0	Clustered	2	VC_556_0	2	1	1	1	1	1	1	1
+phage_877	Unassigned	Unassigned	Unassigned	556_0	Clustered	2	VC_556_0	2	1	1	1	1	1	1	1
+phage_5873	Unassigned	Unassigned	Unassigned	557_0	Clustered	2	VC_557_0	2	1	1	1	1	1	1	1
+phage_6369	Unassigned	Unassigned	Unassigned	557_0	Clustered	2	VC_557_0	2	1	1	1	1	1	1	1
+phage_5928	Unassigned	Unassigned	Unassigned	558_0	Clustered	2	VC_558_0	2	1	1	1	1	1	1	1
+phage_809	Unassigned	Unassigned	Unassigned	558_0	Clustered	2	VC_558_0	2	1	1	1	1	1	1	1
+phage_6180	Unassigned	Unassigned	Unassigned	559_0	Clustered	3	VC_559_0	3	1	1	1	1	1	1	1
+phage_6344	Unassigned	Unassigned	Unassigned	559_0	Clustered	3	VC_559_0	3	1	1	1	1	1	1	1
+phage_6358	Unassigned	Unassigned	Unassigned	559_0	Clustered	3	VC_559_0	3	1	1	1	1	1	1	1
+phage_4542	Unassigned	Unassigned	Unassigned	96_0	Clustered	2	VC_96_0	2	0.0117	0.57774056	0.0067	1	1	1	1
+phage_807	Unassigned	Unassigned	Unassigned	96_0	Clustered	2	VC_96_0	2	0.0117	0.57774056	0.0067	1	1	1	1
+phage_1003	Unassigned	Unassigned	Unassigned		Outlier										
+phage_1011	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1025	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1028	Unassigned	Unassigned	Unassigned		Outlier										
+phage_1029	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1033	Unassigned	Unassigned	Unassigned		Outlier										
+phage_1034	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1035	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1037	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1039	Unassigned	Unassigned	Unassigned		Outlier										
+phage_1041	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1044	Unassigned	Unassigned	Unassigned		Outlier										
+phage_1047	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1051	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1053	Unassigned	Unassigned	Unassigned		Overlap (VC_476/VC_477)										
+phage_1056	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1074	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1075	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1091	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1108	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1121	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1133	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1140	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1156	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1160	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1164	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1170	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1190	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1226	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1231	Unassigned	Unassigned	Unassigned		Outlier										
+phage_1232	Unassigned	Unassigned	Unassigned		Overlap (VC_229/VC_230/VC_471)										
+phage_1233	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1234	Unassigned	Unassigned	Unassigned		Overlap (VC_229/VC_230/VC_471)										
+phage_1236	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1237	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1240	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1241	Unassigned	Unassigned	Unassigned		Outlier										
+phage_1242	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1244	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1245	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1246	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1247	Unassigned	Unassigned	Unassigned		Overlap (VC_230/VC_471)										
+phage_1249	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1250	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1251	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1252	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1254	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1258	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1259	Unassigned	Unassigned	Unassigned		Outlier										
+phage_126	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1260	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1261	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1263	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1265	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1266	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1267	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1270	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1271	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1272	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1273	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1274	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1278	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1279	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1286	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1292	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1380	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1404	Unassigned	Unassigned	Unassigned		Overlap (VC_476/VC_477)										
+phage_1417	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1494	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1498	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1596	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1652	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1659	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1672	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1678	Unassigned	Unassigned	Unassigned		Singleton										
+phage_168	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1687	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1718	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1837	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1874	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1918	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1927	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1972	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1976	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1988	Unassigned	Unassigned	Unassigned		Singleton										
+phage_1995	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2063	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2082	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2096	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2102	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2127	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2143	Unassigned	Unassigned	Unassigned		Singleton										
+phage_215	Unassigned	Unassigned	Unassigned		Outlier										
+phage_217	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2200	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2235	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2258	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2281	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2289	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2304	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2339	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2358	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2427	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2452	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2463	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2541	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2571	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2614	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2640	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2698	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2708	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2744	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2753	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2789	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2818	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2844	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2858	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2864	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2865	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2866	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2867	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2869	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2876	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2878	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2879	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2880	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2885	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2886	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2888	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2890	Unassigned	Unassigned	Unassigned		Overlap (VC_229/VC_230/VC_471)										
+phage_2892	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2893	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2900	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2906	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2911	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2912	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2913	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2916	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2918	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2920	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2921	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2922	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2926	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2927	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2929	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2930	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2931	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2933	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2934	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2937	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2939	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2940	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2941	Unassigned	Unassigned	Unassigned		Overlap (VC_483/VC_511)										
+phage_2942	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2945	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2946	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2948	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2949	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2951	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2954	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2955	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2956	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2960	Unassigned	Unassigned	Unassigned		Outlier										
+phage_2961	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2973	Unassigned	Unassigned	Unassigned		Singleton										
+phage_2984	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3046	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3055	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3056	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3066	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3067	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3069	Unassigned	Unassigned	Unassigned		Singleton										
+phage_307	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3071	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3075	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3076	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3077	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3080	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3085	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3093	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3094	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3095	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3096	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3097	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3098	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3099	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3101	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3102	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3105	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3108	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3109	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3110	Unassigned	Unassigned	Unassigned		Overlap (VC_483/VC_511)										
+phage_3116	Unassigned	Unassigned	Unassigned		Overlap (VC_501/VC_502)										
+phage_3119	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3120	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3121	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3124	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3126	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3133	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3135	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3138	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3140	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3141	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3143	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3145	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3146	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3148	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3150	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3151	Unassigned	Unassigned	Unassigned		Overlap (VC_447/VC_454)										
+phage_3152	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3153	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3155	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3162	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3184	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3230	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3264	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3265	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3266	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3269	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3271	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3272	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3273	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3274	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3276	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3277	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3278	Unassigned	Unassigned	Unassigned		Overlap (VC_483/VC_511)										
+phage_3281	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3284	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3286	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3288	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3292	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3294	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3295	Unassigned	Unassigned	Unassigned		Overlap (VC_483/VC_511)										
+phage_3299	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3301	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3302	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3303	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3304	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3305	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3313	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3315	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3317	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3320	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3321	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3324	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3325	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3326	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3327	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3331	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3345	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3346	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3350	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3355	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3358	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3360	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3363	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3366	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3367	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3380	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3393	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3396	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3428	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3431	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3509	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3551	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3554	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3589	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3621	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3627	Unassigned	Unassigned	Unassigned		Singleton										
+phage_363	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3644	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3668	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3676	Unassigned	Unassigned	Unassigned		Outlier										
+phage_3733	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3830	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3837	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3888	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3913	Unassigned	Unassigned	Unassigned		Singleton										
+phage_3940	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4048	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4062	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4063	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4065	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4067	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4068	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4071	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4072	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4073	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4075	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4079	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4080	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4081	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4082	Unassigned	Unassigned	Unassigned		Overlap (VC_229/VC_230/VC_471)										
+phage_4083	Unassigned	Unassigned	Unassigned		Overlap (VC_476/VC_477)										
+phage_4086	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4091	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4093	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4095	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4096	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4101	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4102	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4122	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4173	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4195	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4200	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4231	Unassigned	Unassigned	Unassigned		Outlier										
+phage_425	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4290	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4293	Unassigned	Unassigned	Unassigned		Singleton										
+phage_434	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4431	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4457	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4460	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4478	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4485	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4488	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4490	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4492	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4494	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4495	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4497	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4500	Unassigned	Unassigned	Unassigned		Overlap (VC_483/VC_511)										
+phage_4502	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4504	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4506	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4508	Unassigned	Unassigned	Unassigned		Overlap (VC_229/VC_230/VC_471)										
+phage_4509	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4510	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4511	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4512	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4514	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4515	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4516	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4519	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4521	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4523	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4527	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4531	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4532	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4534	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4539	Unassigned	Unassigned	Unassigned		Overlap (VC_483/VC_511)										
+phage_4540	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4544	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4546	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4548	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4552	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4557	Unassigned	Unassigned	Unassigned		Singleton										
+phage_456	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4699	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4732	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4733	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4734	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4736	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4742	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4743	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4745	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4750	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4751	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4752	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4756	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4758	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4761	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4763	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4765	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4769	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4771	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4773	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4774	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4775	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4781	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4782	Unassigned	Unassigned	Unassigned		Outlier										
+phage_4784	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4785	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4787	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4867	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4943	Unassigned	Unassigned	Unassigned		Singleton										
+phage_4978	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5084	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5095	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5107	Unassigned	Unassigned	Unassigned		Overlap (VC_488/VC_523)										
+phage_5136	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5138	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5145	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5159	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5208	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5239	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5259	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5295	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5296	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5301	Unassigned	Unassigned	Unassigned		Overlap (VC_483/VC_511)										
+phage_5303	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5306	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5307	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5308	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5311	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5313	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5314	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5316	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5319	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5322	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5348	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5389	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5418	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5433	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5434	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5447	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5456	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5477	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5496	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5508	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5537	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5561	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5563	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5573	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5593	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5626	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5654	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5668	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5669	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5683	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5697	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5726	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5731	Unassigned	Unassigned	Unassigned		Overlap (VC_484/VC_485)										
+phage_5732	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5737	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5739	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5740	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5742	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5744	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5746	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5749	Unassigned	Unassigned	Unassigned		Overlap (VC_476/VC_477)										
+phage_5751	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5752	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5755	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5759	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5760	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5761	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5762	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5763	Unassigned	Unassigned	Unassigned		Overlap (VC_484/VC_485)										
+phage_5765	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5766	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5783	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5836	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5854	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5855	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5856	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5867	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5871	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5874	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5876	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5877	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5878	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5879	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5881	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5882	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5884	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5889	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5891	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5893	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5894	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5895	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5897	Unassigned	Unassigned	Unassigned		Overlap (VC_447/VC_454)										
+phage_5898	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5905	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5906	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5907	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5912	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5916	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5917	Unassigned	Unassigned	Unassigned		Overlap (VC_230/VC_471)										
+phage_5918	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5919	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5920	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5922	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5923	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5924	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5926	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5927	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5931	Unassigned	Unassigned	Unassigned		Outlier										
+phage_5932	Unassigned	Unassigned	Unassigned		Singleton										
+phage_5995	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6002	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6131	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6166	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6170	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6179	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6224	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6246	Unassigned	Unassigned	Unassigned		Outlier										
+phage_6269	Unassigned	Unassigned	Unassigned		Outlier										
+phage_6272	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6280	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6313	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6334	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6337	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6339	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6347	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6349	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6355	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6359	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6367	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6371	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6372	Unassigned	Unassigned	Unassigned		Outlier										
+phage_6400	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6432	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6466	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6468	Unassigned	Unassigned	Unassigned		Singleton										
+phage_652	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6558	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6568	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6613	Unassigned	Unassigned	Unassigned		Outlier										
+phage_6620	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6637	Unassigned	Unassigned	Unassigned		Outlier										
+phage_6692	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6694	Unassigned	Unassigned	Unassigned		Outlier										
+phage_6703	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6738	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6752	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6765	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6772	Unassigned	Unassigned	Unassigned		Overlap (VC_483/VC_511)										
+phage_6790	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6831	Unassigned	Unassigned	Unassigned		Overlap (VC_476/VC_477)										
+phage_6843	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6854	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6857	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6869	Unassigned	Unassigned	Unassigned		Outlier										
+phage_688	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6910	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6926	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6953	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6978	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6993	Unassigned	Unassigned	Unassigned		Singleton										
+phage_6994	Unassigned	Unassigned	Unassigned		Singleton										
+phage_705	Unassigned	Unassigned	Unassigned		Singleton										
+phage_7062	Unassigned	Unassigned	Unassigned		Singleton										
+phage_7083	Unassigned	Unassigned	Unassigned		Singleton										
+phage_7120	Unassigned	Unassigned	Unassigned		Singleton										
+phage_7157	Unassigned	Unassigned	Unassigned		Singleton										
+phage_733	Unassigned	Unassigned	Unassigned		Singleton										
+phage_776	Unassigned	Unassigned	Unassigned		Singleton										
+phage_812	Unassigned	Unassigned	Unassigned		Overlap (VC_447/VC_454)										
+phage_814	Unassigned	Unassigned	Unassigned		Singleton										
+phage_815	Unassigned	Unassigned	Unassigned		Singleton										
+phage_816	Unassigned	Unassigned	Unassigned		Outlier										
+phage_817	Unassigned	Unassigned	Unassigned		Singleton										
+phage_820	Unassigned	Unassigned	Unassigned		Outlier										
+phage_823	Unassigned	Unassigned	Unassigned		Singleton										
+phage_824	Unassigned	Unassigned	Unassigned		Singleton										
+phage_825	Unassigned	Unassigned	Unassigned		Singleton										
+phage_827	Unassigned	Unassigned	Unassigned		Singleton										
+phage_828	Unassigned	Unassigned	Unassigned		Singleton										
+phage_831	Unassigned	Unassigned	Unassigned		Singleton										
+phage_832	Unassigned	Unassigned	Unassigned		Singleton										
+phage_833	Unassigned	Unassigned	Unassigned		Singleton										
+phage_835	Unassigned	Unassigned	Unassigned		Singleton										
+phage_838	Unassigned	Unassigned	Unassigned		Singleton										
+phage_839	Unassigned	Unassigned	Unassigned		Outlier										
+phage_840	Unassigned	Unassigned	Unassigned		Singleton										
+phage_841	Unassigned	Unassigned	Unassigned		Outlier										
+phage_842	Unassigned	Unassigned	Unassigned		Singleton										
+phage_844	Unassigned	Unassigned	Unassigned		Singleton										
+phage_851	Unassigned	Unassigned	Unassigned		Overlap (VC_228/VC_230)										
+phage_853	Unassigned	Unassigned	Unassigned		Overlap (VC_488/VC_523)										
+phage_858	Unassigned	Unassigned	Unassigned		Singleton										
+phage_859	Unassigned	Unassigned	Unassigned		Outlier										
+phage_861	Unassigned	Unassigned	Unassigned		Singleton										
+phage_864	Unassigned	Unassigned	Unassigned		Outlier										
+phage_865	Unassigned	Unassigned	Unassigned		Singleton										
+phage_867	Unassigned	Unassigned	Unassigned		Singleton										
+phage_868	Unassigned	Unassigned	Unassigned		Singleton										
+phage_869	Unassigned	Unassigned	Unassigned		Outlier										
+phage_875	Unassigned	Unassigned	Unassigned		Singleton										
+phage_876	Unassigned	Unassigned	Unassigned		Singleton										
+phage_879	Unassigned	Unassigned	Unassigned		Singleton										
+phage_886	Unassigned	Unassigned	Unassigned		Singleton										
+phage_891	Unassigned	Unassigned	Unassigned		Singleton										
+phage_896	Unassigned	Unassigned	Unassigned		Singleton										
+phage_897	Unassigned	Unassigned	Unassigned		Overlap (VC_228/VC_230)										
+phage_898	Unassigned	Unassigned	Unassigned		Outlier										
+phage_899	Unassigned	Unassigned	Unassigned		Singleton										
+phage_900	Unassigned	Unassigned	Unassigned		Singleton										
+phage_901	Unassigned	Unassigned	Unassigned		Singleton										
+phage_904	Unassigned	Unassigned	Unassigned		Singleton										
+phage_907	Unassigned	Unassigned	Unassigned		Singleton										
+phage_910	Unassigned	Unassigned	Unassigned		Singleton										
+phage_912	Unassigned	Unassigned	Unassigned		Singleton										
+phage_914	Unassigned	Unassigned	Unassigned		Singleton										
+phage_919	Unassigned	Unassigned	Unassigned		Singleton										
+phage_920	Unassigned	Unassigned	Unassigned		Singleton										
+phage_921	Unassigned	Unassigned	Unassigned		Outlier										
+phage_923	Unassigned	Unassigned	Unassigned		Singleton										
+phage_932	Unassigned	Unassigned	Unassigned		Singleton										
+phage_933	Unassigned	Unassigned	Unassigned		Singleton										
+phage_944	Unassigned	Unassigned	Unassigned		Singleton										
+phage_948	Unassigned	Unassigned	Unassigned		Singleton										
+phage_951	Unassigned	Unassigned	Unassigned		Singleton										
+phage_954	Unassigned	Unassigned	Unassigned		Singleton										
+phage_96	Unassigned	Unassigned	Unassigned		Singleton										
+phage_991	Unassigned	Unassigned	Unassigned		Singleton										

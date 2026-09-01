@@ -1,0 +1,4 @@
+samples	lake	type	name
+SLMCELL	Mercer	sub	Mercer_Cell
+SLMVIRAL	Mercer	sub	Mercer_Viral
+SLW	Wissard	sub	Wissard

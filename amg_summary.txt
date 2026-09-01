@@ -1,0 +1,115 @@
+Contig	Contigs	Lifestyle	gene_id	scaffold	auxiliary_score	amg_flags	gene_description	module	sheet	header	subheader	potential_amg	gene_id_origin	metabolism	reference	verified
+1	phage_1044	Unknown	PF13385	phage_1044__full-cat_1	2	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+2	phage_1074	temperate	K00558	phage_1074__full-cat_2	3	MF	DNA (cytosine-5-)-methyltransferase	Methionine degradation	Organic Nitrogen	Amino Acid		TRUE	genome_summary_form			
+3	phage_1091	temperate	PF01503	phage_1091__full-cat_2	3	MKF	Phosphoribosyl-ATP pyrophosphohydrolase						amg_database	M	Roux et al. 2016	FALSE
+4	phage_1255	virulent	PF01073	phage_1255__full-cat_2	3	MKF	3-beta hydroxysteroid dehydrogenase/isomerase family						amg_database	M	Roux et al. 2016	FALSE
+5	phage_1255	virulent	PF01370	phage_1255__full-cat_2	3	MKF	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+6	phage_1255	virulent	PF04321	phage_1255__full-cat_2	3	MKF	RmlD substrate binding domain						amg_database		Roux et al. 2016	FALSE
+7	phage_1255	virulent	PF01467	phage_1255__full-cat_2	3	MKF	Cytidylyltransferase						amg_database		Roux et al. 2016	FALSE
+8	phage_1255	virulent	PF01050	phage_1255__full-cat_2	3	MKF	manA; mannose-6-phosphate isomerase						amg_database	M	Roux et al. 2016; Hurwitz et al. 2015	FALSE
+9	phage_1277	virulent	PF13385	phage_1277__full-cat_1	2	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+10	phage_1286	virulent	PF13385	phage_1286__full-cat_2	3	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+11	phage_1995	Unknown	PF04488	phage_1995__full-cat_2	3	MKF	Glycosyltransferase sugar-binding region containing DXD motif						amg_database		Roux et al. 2016	FALSE
+12	phage_2279	virulent	PF04724	phage_2279__full-cat_1	2	MKF	Glycosyltransferase family 17						amg_database		Roux et al. 2016	FALSE
+13	phage_2475	virulent	U69	phage_2475__full-cat_1	2	MF	Self-processing occurs at the Ser846|+|Ala bond.	Self-processing peptidases	Organic Nitrogen	Peptidase		TRUE	genome_summary_form			
+14	phage_2475	virulent	U69	phage_2475__full-cat_1	2	MF	Self-processing occurs at the Ser846|+|Ala bond.	Self-processing peptidases	Organic Nitrogen	Peptidase		TRUE	genome_summary_form			
+15	phage_2541	virulent	K00527	phage_2541__full-cat_2	3	MKEF	ribonucleoside-triphosphate reductase	"Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP"	MISC	Information systems	Nucleotide	TRUE	genome_summary_form			
+16	phage_2541	virulent	PF02867	phage_2541__full-cat_2	3	MKEF	nrdA/nrdB; ribonucleotide reductase (RNR)	M00053					amg_database		Thompson et al. 2011; Sullivan et al. 2005	TRUE
+17	phage_2541	virulent	PF00534	phage_2541__full-cat_2	3	MKF	Glycosyl transferases group 1						amg_database		Roux et al. 2016	FALSE
+18	phage_2858	virulent	PF13640	phage_2858__full-cat_1	2	MKF	2OG-Fe(II) oxygenase superfamily						amg_database	M	Roux et al. 2016	FALSE
+19	phage_2919	virulent	PF13759	phage_2919__full-cat_1	1	MKF	Putative 2OG-Fe(II) oxygenase						amg_database	M	Roux et al. 2016	FALSE
+20	phage_2919	virulent	PF13640	phage_2919__full-cat_1	1	MKF	2OG-Fe(II) oxygenase superfamily						amg_database	M	Roux et al. 2016	FALSE
+21	phage_2947	virulent	PF01503	phage_2947__full-cat_2	3	MKF	Phosphoribosyl-ATP pyrophosphohydrolase						amg_database	M	Roux et al. 2016	FALSE
+22	phage_2951	virulent	PF01227	phage_2951__full-cat_1	2	MKF	GTP cyclohydrolase I						amg_database		Roux et al. 2016	FALSE
+23	phage_2951	virulent	PF01242	phage_2951__full-cat_1	2	MKF	6-pyruvoyl tetrahydropterin synthase						amg_database		Roux et al. 2016	FALSE
+24	phage_3064	virulent	PF13385	phage_3064__full-cat_1	1	MK	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+25	phage_3075	temperate	PF02348	phage_3075__full-cat_1	1	MK	Cytidylyltransferase						amg_database		Roux et al. 2016	FALSE
+26	phage_3075	temperate	PF01050	phage_3075__full-cat_1	1	MK	manA; mannose-6-phosphate isomerase						amg_database	M	Roux et al. 2016; Hurwitz et al. 2015	FALSE
+27	phage_3076	virulent	PF13385	phage_3076__full-cat_1	2	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+28	phage_3078	virulent	PF13385	phage_3078__full-cat_1	1	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+29	phage_3078	virulent	PF13385	phage_3078__full-cat_1	1	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+30	phage_3082	virulent	PF13385	phage_3082__full-cat_1	1	MK	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+31	phage_3087	temperate	PF03016	phage_3087__full-cat_1	2	MK	Exostosin family						amg_database		Roux et al. 2016	FALSE
+32	phage_3087	temperate	PF00534	phage_3087__full-cat_1	2	MK	Glycosyl transferases group 1						amg_database		Roux et al. 2016	FALSE
+33	phage_3089	virulent	PF01227	phage_3089__full-cat_1	1	MKF	GTP cyclohydrolase I						amg_database		Roux et al. 2016	FALSE
+34	phage_3089	virulent	PF01242	phage_3089__full-cat_1	1	MK	6-pyruvoyl tetrahydropterin synthase						amg_database		Roux et al. 2016	FALSE
+35	phage_3089	virulent	PF06508	phage_3089__full-cat_1	1	MK	Queuosine biosynthesis protein QueC						amg_database		Roux et al. 2016	FALSE
+36	phage_3098	Unkown	PF13385	phage_3098__full-cat_1	2	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+37	phage_3100	virulent	M54	phage_3100__full-cat_1	2	M	Metallo; eukaryote archelysin	"Aminopeptidases, sometimes termed archaelysins or archaemetzincins"	Organic Nitrogen	Peptidase		TRUE	genome_summary_form			
+38	phage_3106	virulent	PF00132	phage_3106__full-cat_1	2	MKF	Bacterial transferase hexapeptide						amg_database		Roux et al. 2016	FALSE
+39	phage_3110	virulent	PF00534	phage_3110__full-cat_1	2	MKF	Glycosyl transferases group 1						amg_database		Roux et al. 2016	FALSE
+40	phage_3116	virulent	PF13385	phage_3116__full-cat_1	2	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+41	phage_3119	virulent	PF01832	phage_3119__full-cat_1	2	MKF	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase						amg_database		Roux et al. 2016	FALSE
+42	phage_3120	temperate	PF01370	phage_3120__full-cat_1	1	MK	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+43	phage_3120	temperate	PF04321	phage_3120__full-cat_1	1	MK	RmlD substrate binding domain						amg_database		Roux et al. 2016	FALSE
+44	phage_3135	virulent	PF00534	phage_3135__full-cat_1	2	MKF	Glycosyl transferases group 1						amg_database		Roux et al. 2016	FALSE
+45	phage_3135	virulent	PF00534	phage_3135__full-cat_1	2	MKF	Glycosyl transferases group 1						amg_database		Roux et al. 2016	FALSE
+46	phage_3151	virulent	K00527	phage_3151__full-cat_1	1	MKEF	ribonucleoside-triphosphate reductase	"Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP"	MISC	Information systems	Nucleotide	TRUE	genome_summary_form			
+47	phage_3151	virulent	PF02867	phage_3151__full-cat_1	1	MKEF	nrdA/nrdB; ribonucleotide reductase (RNR)	M00053					amg_database		Thompson et al. 2011; Sullivan et al. 2005	TRUE
+48	phage_3153	Unknown	PF03721	phage_3153__full-cat_1	2	MKF	"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"						amg_database		Roux et al. 2016	FALSE
+49	phage_3153	Unknown	PF00984	phage_3153__full-cat_1	2	MKF	"UDP-glucose/GDP-mannose dehydrogenase family, central domain"						amg_database		Roux et al. 2016	FALSE
+50	phage_3153	Unknown	PF00534	phage_3153__full-cat_1	2	MK	Glycosyl transferases group 1						amg_database		Roux et al. 2016	FALSE
+51	phage_3278	virulent	PF00534	phage_3278__full-cat_2	3	MKF	Glycosyl transferases group 1						amg_database		Roux et al. 2016	FALSE
+52	phage_3320	Unknown	PF01762	phage_3320__full-cat_2	3	MKF	Galactosyltransferase						amg_database		Roux et al. 2016	FALSE
+53	phage_3360	temperate	K00558	phage_3360__full-cat_2	3	MF	DNA (cytosine-5-)-methyltransferase	Methionine degradation	Organic Nitrogen	Amino Acid		TRUE	genome_summary_form			
+54	phage_3679	virulent	U69	phage_3679__full-cat_2	3	MF	Self-processing occurs at the Ser846|+|Ala bond.	Self-processing peptidases	Organic Nitrogen	Peptidase		TRUE	genome_summary_form			
+55	phage_3888	virulent	K00560	phage_3888__full-cat_2	3	MF	thymidylate synthase	"Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP"	MISC	Information systems	Nucleotide	TRUE	genome_summary_form			
+56	phage_3888	virulent	PF13385	phage_3888__full-cat_2	3	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+57	phage_4055	temperate	PF01408	phage_4055__full-cat_1	1	MKF	"Oxidoreductase family, NAD-binding Rossmann fold"						amg_database		Roux et al. 2016	FALSE
+58	phage_4065	virulent	PF06508	phage_4065__full-cat_2	3	MKF	thymidylate synthaseG63						amg_database		Roux et al. 2016	FALSE
+59	phage_4065	virulent	PF01227	phage_4065__full-cat_2	3	MKF	GTP cyclohydrolase I						amg_database		Roux et al. 2016	FALSE
+60	phage_4086	temperate	PF06339	phage_4086__full-cat_2	3	MKF	Ectoine synthase						amg_database	M	Roux et al. 2016	FALSE
+61	phage_4200	Unknown	PF13091	phage_4200__full-cat_2	3	MKF	PLD-like domain						amg_database		Roux et al. 2016	FALSE
+62	phage_4363	virulent	PF01467	phage_4363__full-cat_1	2	MKF	Cytidylyltransferase						amg_database		Roux et al. 2016	FALSE
+63	phage_4363	virulent	PF01050	phage_4363__full-cat_1	2	MKF	manA; mannose-6-phosphate isomerase						amg_database	M	Roux et al. 2016; Hurwitz et al. 2015	FALSE
+64	phage_4363	virulent	PF04488	phage_4363__full-cat_1	2	MKF	Glycosyltransferase sugar-binding region containing DXD motif						amg_database		Roux et al. 2016	FALSE
+65	phage_4485	temperate	K00560	phage_4485__full-cat_2	3	MF	thymidylate synthase	"Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP"	MISC	Information systems	Nucleotide	TRUE	genome_summary_form			
+66	phage_4503	virulent	PF01467	phage_4503__full-cat_2	3	MKF	Cytidylyltransferase						amg_database		Roux et al. 2016	FALSE
+67	phage_4504	temperate	PF02867	phage_4504__full-cat_2	3	MKEF	nrdA/nrdB; ribonucleotide reductase (RNR)	M00053					amg_database		Thompson et al. 2011; Sullivan et al. 2005	TRUE
+68	phage_4527	virulent	PF02675	phage_4527__full-cat_2	3	MKF	speD; S-adenosylmethionine decarboxylase						amg_database		Sullivan et al. 2005; Ignacio?Espinoza et al. 2012; Hurwitz et al. 2015; Roux et al. 2016	FALSE
+69	phage_4557	virulent	PF01242	phage_4557__full-cat_2	3	MKF	6-pyruvoyl tetrahydropterin synthase						amg_database		Roux et al. 2016	FALSE
+70	phage_4746	virulent	K00527	phage_4746__full-cat_2	3	MKEF	ribonucleoside-triphosphate reductase	"Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP"	MISC	Information systems	Nucleotide	TRUE	genome_summary_form			
+71	phage_4746	virulent	PF02867	phage_4746__full-cat_2	3	MKEF	nrdA/nrdB; ribonucleotide reductase (RNR)	M00053					amg_database		Thompson et al. 2011; Sullivan et al. 2005	TRUE
+72	phage_4746	virulent	PF06442	phage_4746__full-cat_2	3	MKF	R67 dihydrofolate reductase						amg_database		Roux et al. 2016	FALSE
+73	phage_4760	virulent	PF13385	phage_4760__full-cat_1	2	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+74	phage_5006	virulent	PF13532	phage_5006__full-cat_2	3	MKF	2OG-Fe(II) oxygenase superfamily						amg_database	M	Roux et al. 2016	FALSE
+75	phage_5298	virulent	U69	phage_5298__full-cat_2	3	MF	Self-processing occurs at the Ser846|+|Ala bond.	Self-processing peptidases	Organic Nitrogen	Peptidase		TRUE	genome_summary_form			
+76	phage_5322	virulent	K00560	phage_5322__full-cat_2	3	MF	thymidylate synthase	"Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP"	MISC	Information systems	Nucleotide	TRUE	genome_summary_form			
+77	phage_5322	virulent	K00560	phage_5322__full-cat_2	3	MF	thymidylate synthase	"Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP"	MISC	Information systems	Nucleotide	TRUE	genome_summary_form			
+78	phage_5456	virulent	PF01370	phage_5456__full-cat_2	3	MKF	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+79	phage_5456	virulent	PF04321	phage_5456__full-cat_2	3	MKF	RmlD substrate binding domain						amg_database		Roux et al. 2016	FALSE
+80	phage_5456	virulent	PF01073	phage_5456__full-cat_2	3	MKF	3-beta hydroxysteroid dehydrogenase/isomerase family						amg_database	M	Roux et al. 2016	FALSE
+81	phage_5456	virulent	PF01370	phage_5456__full-cat_2	3	MKF	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+82	phage_5456	virulent	PF04321	phage_5456__full-cat_2	3	MKF	RmlD substrate binding domain						amg_database		Roux et al. 2016	FALSE
+83	phage_5912	temperate	K00558	phage_5912__full-cat_2	3	MF	DNA (cytosine-5-)-methyltransferase	Methionine degradation	Organic Nitrogen	Amino Acid		TRUE	genome_summary_form			
+84	phage_6371	temperate	PF01370	phage_6371__full-cat_2	3	MKF	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+85	phage_6441	virulent	PF13385	phage_6441__full-cat_1	2	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+86	phage_6441	virulent	PF01408	phage_6441__full-cat_1	2	MK	"Oxidoreductase family, NAD-binding Rossmann fold"						amg_database		Roux et al. 2016	FALSE
+87	phage_656	virulent	GT2	phage_656__full-cat_1	2	MF	GT2 cellulose synthase	GlycosylTransferases	carbon utilization	CAZY		TRUE	genome_summary_form			
+88	phage_656	virulent	PF04724	phage_656__full-cat_1	2	MKF	Glycosyltransferase family 17						amg_database		Roux et al. 2016	FALSE
+89	phage_656	virulent	PF00266	phage_656__full-cat_1	2	MK	Aminotransferase class-V						amg_database	M	Roux et al. 2016	FALSE
+90	phage_656	virulent	PF01053	phage_656__full-cat_1	2	MK	Cys/Met metabolism PLP-dependent enzyme						amg_database	M	Roux et al. 2016	FALSE
+91	phage_656	virulent	PF01073	phage_656__full-cat_1	2	MK	3-beta hydroxysteroid dehydrogenase/isomerase family						amg_database	M	Roux et al. 2016	FALSE
+92	phage_656	virulent	PF01370	phage_656__full-cat_1	2	MK	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+93	phage_656	virulent	PF04321	phage_656__full-cat_1	2	MK	RmlD substrate binding domain						amg_database		Roux et al. 2016	FALSE
+94	phage_656	virulent	PF01073	phage_656__full-cat_1	2	MKF	3-beta hydroxysteroid dehydrogenase/isomerase family						amg_database	M	Roux et al. 2016	FALSE
+95	phage_656	virulent	PF01370	phage_656__full-cat_1	2	MKF	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+96	phage_656	virulent	PF04321	phage_656__full-cat_1	2	MKF	RmlD substrate binding domain						amg_database		Roux et al. 2016	FALSE
+97	phage_656	virulent	PF01370	phage_656__full-cat_1	2	MKF	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+98	phage_656	virulent	PF04321	phage_656__full-cat_1	2	MKF	RmlD substrate binding domain						amg_database		Roux et al. 2016	FALSE
+99	phage_6772	temperate	PF00534	phage_6772__full-cat_2	3	MKF	Glycosyl transferases group 1						amg_database		Roux et al. 2016	FALSE
+100	phage_6854	Unknown	PF01503	phage_6854__full-cat_2	3	MKF	Phosphoribosyl-ATP pyrophosphohydrolase						amg_database	M	Roux et al. 2016	FALSE
+101	phage_688	Unknown	PF01073	phage_688__full-cat_1	2	MKF	3-beta hydroxysteroid dehydrogenase/isomerase family						amg_database	M	Roux et al. 2016	FALSE
+102	phage_688	Unknown	PF01370	phage_688__full-cat_1	2	MKF	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+103	phage_688	Unknown	PF04321	phage_688__full-cat_1	2	MKF	RmlD substrate binding domain						amg_database		Roux et al. 2016	FALSE
+104	phage_688	Unknown	PF03721	phage_688__full-cat_1	2	MKF	"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"						amg_database		Roux et al. 2016	FALSE
+105	phage_688	Unknown	PF00984	phage_688__full-cat_1	2	MKF	"UDP-glucose/GDP-mannose dehydrogenase family, central domain"						amg_database		Roux et al. 2016	FALSE
+106	phage_7062	temperate	K00558	phage_7062__full-cat_1	2	M	DNA (cytosine-5-)-methyltransferase	Methionine degradation	Organic Nitrogen	Amino Acid		TRUE	genome_summary_form			
+107	phage_7295	Unknown	PF01073	phage_7295__full-cat_1	2	MK	3-beta hydroxysteroid dehydrogenase/isomerase family						amg_database	M	Roux et al. 2016	FALSE
+108	phage_7295	Unknown	PF01370	phage_7295__full-cat_1	2	MK	NAD dependent epimerase/dehydratase family						amg_database		Roux et al. 2016	FALSE
+109	phage_7295	Unknown	PF04321	phage_7295__full-cat_1	2	MK	RmlD substrate binding domain						amg_database		Roux et al. 2016	FALSE
+110	phage_833	virulent	PF02867	phage_833__full-cat_2	3	MKEF	nrdA/nrdB; ribonucleotide reductase (RNR)	M00053					amg_database		Thompson et al. 2011; Sullivan et al. 2005	TRUE
+111	phage_833	virulent	PF00317	phage_833__full-cat_2	3	MKEF	nrdA/nrdB; ribonucleotide reductase (RNR)	M00053					amg_database		Thompson et al. 2011; Sullivan et al. 2005	TRUE
+112	phage_842	temperate	K00558	phage_842__full-cat_1	2	M	DNA (cytosine-5-)-methyltransferase	Methionine degradation	Organic Nitrogen	Amino Acid		TRUE	genome_summary_form			
+113	phage_849	Unknown	PF13385	phage_849__full-cat_1	1	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
+114	phage_907	Unknown	PF13385	phage_907__full-cat_2	3	MKF	Concanavalin A-like lectin; extracellular arabinase						amg_database		Emerson et al. 2018	FALSE
